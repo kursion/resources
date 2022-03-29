@@ -8,4 +8,4 @@
 - Builds: Snow Crow https://snowcrows.com/
 - Builds: Guild Jen https://guildjen.com/builds/
 - Tekkit Workshop (lot of stuff): http://tekkitsworkshop.net/index.php
-- Agony computation: x agony is `2^(x-1)-1` (eg: `for +11 agony you need 2^(11-1)-1 = 2^(10)-1 = 1024-1 = 1023`
+- Agony computation: x agony is `2^(x-1)-1` (eg: `for +11 agony you need 2^(11-1)-1 = 2^(10)-1 = 1024-1 = 1023`)
