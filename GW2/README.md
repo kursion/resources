@@ -1,5 +1,5 @@
 # Guild Wars 2
-<img src="https://wiki.guildwars2.com/images/6/65/Hero_panel_skills_and_traits_icon.png" width="24" height="24"> [My Builds](./BUILDS.md) | !<img src ="https://wiki.guildwars2.com/images/thumb/5/51/Catmander_tag_%28white%29.png/40px-Catmander_tag_%28white%29.png" width="24" height="24"> [Strats](./STRATS.md)
+<img src="https://wiki.guildwars2.com/images/6/65/Hero_panel_skills_and_traits_icon.png" width="24" height="24"> [My Builds](./BUILDS.md) | <img src ="https://wiki.guildwars2.com/images/thumb/5/51/Catmander_tag_%28white%29.png/40px-Catmander_tag_%28white%29.png" width="23" height="23"> [Strats](./STRATS.md)
 
 - French but very complete: https://www.lebusmagique.fr/
 - Map https://game-maps.com/GW2/img/gw2-zones-map.webp (website: https://game-maps.com/GW2/GW2-zones-and-levels-map.asp)
