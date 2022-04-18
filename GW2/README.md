@@ -1,5 +1,5 @@
 # Guild Wars 2
-![build](https://wiki.guildwars2.com/images/6/65/Hero_panel_skills_and_traits_icon.png) [My Build](./BUILDS.md)
+![build](https://wiki.guildwars2.com/images/6/65/Hero_panel_skills_and_traits_icon.png) [My Builds](./BUILDS.md)
 
 - French but very complete: https://www.lebusmagique.fr/
 - Map https://game-maps.com/GW2/img/gw2-zones-map.webp (website: https://game-maps.com/GW2/GW2-zones-and-levels-map.asp)
