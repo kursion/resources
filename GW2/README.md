@@ -1,4 +1,6 @@
 # Guild Wars 2
+![build](https://wiki.guildwars2.com/images/6/65/Hero_panel_skills_and_traits_icon.png) [My Build](./BUILDS.md)
+
 - French but very complete: https://www.lebusmagique.fr/
 - Map https://game-maps.com/GW2/img/gw2-zones-map.webp (website: https://game-maps.com/GW2/GW2-zones-and-levels-map.asp)
 - Farming: FastFarming https://fast.farming-community.eu/
@@ -12,4 +14,4 @@
 - WvW Best Abilities Order: https://gw2mists.com/blog/how-to-spend-wvw-rank-points
 - Discord: Overflow Trading Company (convert your items) https://discord.com/invite/gw2overflow
 
-[My Build](./BUILDS.md)
+
