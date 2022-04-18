@@ -12,4 +12,4 @@
 - WvW Best Abilities Order: https://gw2mists.com/blog/how-to-spend-wvw-rank-points
 - Discord: Overflow Trading Company (convert your items) https://discord.com/invite/gw2overflow
 
-(My Build)[./BUILDS.md]
+[My Build](./BUILDS.md)
