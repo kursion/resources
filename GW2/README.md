@@ -15,6 +15,6 @@
 - Discord: Overflow Trading Company (convert your items) https://discord.com/invite/gw2overflow
 
 - Build groups:  
-<a href="./GW2 BUILD GROUP.png"><img src="./GW2 BUILD GROUP.png" width=550></a>
+<a href="./GW2 BUILD GROUP.png"><img src="./GW2 BUILD GROUP.png" width=350></a>
 
 
