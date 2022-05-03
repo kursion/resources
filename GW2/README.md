@@ -5,8 +5,7 @@
 - Map https://game-maps.com/GW2/img/gw2-zones-map.webp (website: https://game-maps.com/GW2/GW2-zones-and-levels-map.asp)
 - Farming: FastFarming https://fast.farming-community.eu/
 - Farming: Worth https://peuresearchcenter.com/research/currency-worth.php
-- Builds: Snow Crow https://snowcrows.com/
-- Builds: Guild Jen https://guildjen.com/builds/
+
 - Plugin: Tekkit Workshop (lot of stuff): http://tekkitsworkshop.net/index.php
 - Agony computation: x agony is 2^(x-1)-1 (eg: for +11 agony you need 2^(11-1)-1 = 2^(10)-1 = 1024-1 = 1023)
 - Tool: Gw2Efficiency: https://gw2efficiency.com/
@@ -15,7 +14,13 @@
 - Discord: Overflow Trading Company (convert your items) https://discord.com/invite/gw2overflow
 - Trading Post info [GW2TP.com](https://gw2tp.com/)
 
-- Build groups:  
+## Builds
+- Builds: Snow Crow https://snowcrows.com/
+- Builds: Guild Jen https://guildjen.com/builds/
+- All 9 classes (EoD) - Open World Builds: https://www.youtube.com/watch?time_continue=1&v=e5bV17YgdWM&feature=emb_logo
+
+## Extra
+- Formation of groups:  
 <a href="./GW2 BUILD GROUP.png"><img src="./GW2 BUILD GROUP.png" width=350></a>
 
 
