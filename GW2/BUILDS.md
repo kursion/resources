@@ -12,3 +12,6 @@
 ### ![harbinger](https://wiki.guildwars2.com/images/1/1d/Harbinger_icon_small.png) Necro Harbinger
 - DPS conditions (quickness raid) | Pistol/Dagger | Scepter/Warhorn: `[&DQgnNjI1QCvnGpsA7Bp2AYAAcAGZAXYA6BqVAAAAAAAAAAAAAAAAAAAAAAA=]`
 - DPS conditions (no quickness) | Pistol/Dagger | Scepter/Warhorn: `[&DQgnNjI1QD/nGpsA7Bp2AYAAcAGZAXYA6BqVAAAAAAAAAAAAAAAAAAAAAAA=]`
+- PVP DPS conditions | Pistol/Focus | Staff: 
+    - `[&DQg1KTInQCbnGpsA1Bp2Ab0BcAEuAXYA6BqVAAAAAAAAAAAAAAAAAAAAAAA=]`
+    - `[&DQg1KTInQCbnGpsA1Bp2Ab0BcAEuAXYA6BqVAAAAAAAAAAAAAAAAAAAAAAA=]`
