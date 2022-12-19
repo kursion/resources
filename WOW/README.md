@@ -2,7 +2,7 @@
 
 ## Reset all settings (hardcore)
 
-1. In the game, go to settings and click on the "Reset to default button"
+1. In the game, go to settings and click on the "To default" button and choose "Reset all".
 2. Disconnect from World of Warcraft.
 3. Go do the directory and rename the `WTF` folder to `WTF.old`.
 4. Create a new empty `WTF` folder.
