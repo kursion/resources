@@ -19,8 +19,9 @@
 - Builds: Guild Jen https://guildjen.com/builds/
 - All 9 classes (EoD) - Open World Builds: https://www.youtube.com/watch?time_continue=1&v=e5bV17YgdWM&feature=emb_logo
 
+## Stats 
+- [Common stats](./STATS.md)
+
 ## Extra
 - Formation of groups:  
 <a href="./GW2 BUILD GROUP.png"><img src="./GW2 BUILD GROUP.png" width=350></a>
-
-
